@@ -17,7 +17,5 @@
 
 ## Validation Links:
 
-### [Nu Validator](https://validator.unl.edu/?showsource=yes&doc=https%3A%2F%2Fgithub.com%2Fpoppydalton%2Fgame-project)
-### [Wave Evaluation Tool](https://validator.unl.edu/?showsource=yes&doc=https%3A%2F%2Fgithub.com%2Fpoppydalton%2Fgame-project)
-
-
+### [Nu Validator](https://validator.unl.edu/?showsource=yes&doc=https%3A%2F%2Fpoppydalton.github.io%2Fgame-project)
+### [Wave Evaluation Tool](https://wave.webaim.org/report#/https://poppydalton.github.io/game-project)
