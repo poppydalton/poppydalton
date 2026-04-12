@@ -7,7 +7,7 @@
 
 # Card Game Project
 
-## [Click Here to Play My Latest Game!!](poppydalton.github.io/game-project/)
+## [Click Here to Play My Latest Game!!](https://poppydalton.github.io/game-project/)
 
 ## [Click Here to View My Source Code!!](https://github.com/poppydalton/game-project)
 
