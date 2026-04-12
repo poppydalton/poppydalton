@@ -13,7 +13,7 @@
 
 <img width="683" height="551" alt="Screenshot 2026-04-11 at 8 49 12 PM" src="https://github.com/user-attachments/assets/a3519484-cf89-4317-a71d-dc730732fdb0" />
 
-## [Screenshot Image 📸](/images/game-thumb.jpg)
+## [Screenshot Image 📸](https://github.com/poppydalton/game-project/blob/main/images/game-thumb.jpg)
 
 ## Validation Links:
 
