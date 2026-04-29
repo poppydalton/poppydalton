@@ -1,4 +1,4 @@
-# Poppy Dalton Profile 
+# Poppy Dalton Profile Page
 
 ## I am a Computer Information Systems Major with a Minor in Management.
 * ✉️ You can contact me at: pdalton@una.edu
