@@ -3,10 +3,10 @@
 ## I am a Computer Information Systems Major with a Minor in Management.
 * ✉️ You can contact me at: pdalton@una.edu
 
-### My Github Account 
+#### My Github Account 
 <p align="left"> <a href="https://www.github.com/poppydalton" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-# My LinkedIn Account
+#### My LinkedIn Account
 https://www.linkedin.com/in/poppy-dalton-06192a346/
 
 ## 🚀 Featured Project
